@@ -422,7 +422,7 @@ div.jp-type-playlist div.jp-playlist li:last-child {
 	border-bottom:none;
 }
 div.jp-type-playlist div.jp-playlist li.jp-playlist-current {
-	list-style-type:square;
+	/*list-style-type:square;*/
 	list-style-position:inside;
 	padding-left:7px;
 }
